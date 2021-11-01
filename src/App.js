@@ -61,7 +61,7 @@ function App() {
       <div style={{width: '100%'}}>
         <h6>Add Block</h6>
       </div>
-      <div className='add-block-items' style={{display:'flex',gap:'20px',height:'auto'}}>
+      <div className='add-block-items' style={{display:'flex', width:'100%', justifyContent: 'space-between', height:'auto'}}>
         {features.map((t) => (
           <div className="menu-item" >
           <div className="menu-item-icon" style={{backgroundColor: t.bgColor, width: '60px', padding: '8px'}}>
