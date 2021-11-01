@@ -100,7 +100,7 @@ function App() {
       <div className="content">
           <div className="font-icon"><FontAwesomeIcon icon={faAddressBook} /></div>
           <div><h5>Add Your Bio</h5>
-          <p>Profile pic, Name and Bio</p></div>
+          <p>Profile pic, Name, Age and Bio</p></div>
 
       </div>
       
