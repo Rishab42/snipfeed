@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/snipfeed/static/css/main.a0b808f6.chunk.css",
-    "main.js": "/snipfeed/static/js/main.9cbf1460.chunk.js",
-    "main.js.map": "/snipfeed/static/js/main.9cbf1460.chunk.js.map",
+    "main.css": "/snipfeed/static/css/main.f23fcdc0.chunk.css",
+    "main.js": "/snipfeed/static/js/main.77b5e598.chunk.js",
+    "main.js.map": "/snipfeed/static/js/main.77b5e598.chunk.js.map",
     "runtime-main.js": "/snipfeed/static/js/runtime-main.aff7a4c8.js",
     "runtime-main.js.map": "/snipfeed/static/js/runtime-main.aff7a4c8.js.map",
     "static/js/2.1a47fbeb.chunk.js": "/snipfeed/static/js/2.1a47fbeb.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.0a7dc286.chunk.js": "/snipfeed/static/js/3.0a7dc286.chunk.js",
     "static/js/3.0a7dc286.chunk.js.map": "/snipfeed/static/js/3.0a7dc286.chunk.js.map",
     "index.html": "/snipfeed/index.html",
-    "static/css/main.a0b808f6.chunk.css.map": "/snipfeed/static/css/main.a0b808f6.chunk.css.map",
+    "static/css/main.f23fcdc0.chunk.css.map": "/snipfeed/static/css/main.f23fcdc0.chunk.css.map",
     "static/js/2.1a47fbeb.chunk.js.LICENSE.txt": "/snipfeed/static/js/2.1a47fbeb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.aff7a4c8.js",
     "static/js/2.1a47fbeb.chunk.js",
-    "static/css/main.a0b808f6.chunk.css",
-    "static/js/main.9cbf1460.chunk.js"
+    "static/css/main.f23fcdc0.chunk.css",
+    "static/js/main.77b5e598.chunk.js"
   ]
 }
