@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    width: 100%;
+}
+
+.container {
+    height: 100vh;
+    width: 100%;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 3000px !important;
+}
+
+.Options {
+    width: 8%;
+    z-index: 10;
+    border-right: 1px solid rgb(226, 220, 220);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.upper-opt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.menu-item {
+    display: flex;
+    flex-wrap: wrap;
+    width: 85px;
+    padding: 4px;
+    border-radius: 8px;
+    justify-content: center;
+}
+
+.menu-item-icon {
+    display: block;
+    width: 100%;
+    font-size: 20px;
+    border-radius: 10px;
+    height: 50px;
+}
+
+.menu-item-text {
+    font-size: 14px;
+}
+
+.lower-opt {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5ch;
+    padding: 20px;
+}
+
+.add-block-items {
+    display: flex;
+}
+
+.monetize-block-items {
+    width: 100%;
+    padding: 0 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.services {
+    width: 45%;
+    background-color: rgba(168, 155, 125, 0.13);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.links {
+    width: 90%;
+    background-color: white;
+    border: none;
+    margin-top: 80px;
+    margin-bottom: 3px;
+    height: 15%;
+}
+
+.block {
+    background-color: white;
+    border: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    border-radius: 5px;
+    height: 15%;
+    width: 90%;
+}
+
+.header {
+    background-color: white;
+    border: none;
+    margin-top: 10%;
+    height: auto;
+    width: 90%;
+    height: 15%;
+}
+
+.mailing-list {
+    margin-top: 6%;
+    background-color: white;
+    border: none;
+    width: 90%;
+    height: 15%;
+}
+
+.display {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.topbar {
+    z-index: 2;
+    position: absolute;
+    height: 60px;
+    width: 100%;
+    padding: 2px 0px 4px 0px;
+    background-color: white;
+}
+
+.nav-item {
+    display: flex;
+    align-items: center;
+    margin-left: calc(10% + 10px);
+}
+
+.nav-item-text {
+    margin-left: 10px;
+    color: #4d4d50;
+}
+
+.header,
+.mailing-list {
+    border-radius: 12px;
+}
+
+.heading {
+    padding-left: 10px;
+    width: 15%;
+    margin: 15px 0px 0px 17px;
+    border-radius: 10px;
+    background-color: rgba(128, 128, 128, 0.123);
+}
+
+.font-icon {
+    background-color: rgba(128, 128, 128, 0.123);
+    width: 6%;
+    padding: 15px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 17px;
+}
+
+.content {
+    display: flex;
+    gap: 20px;
+}
+
+p {
+    color: grey;
+}
